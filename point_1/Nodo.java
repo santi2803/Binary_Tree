@@ -1,7 +1,0 @@
-/**
- * Nodo
- */
-public class Nodo {
-
-    
-}

@@ -1,7 +1,0 @@
-/**
- * BTS
- */
-public class BTS {
-
-    
-}
